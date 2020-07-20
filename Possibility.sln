@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Possibility", "Possibility\Possibility.csproj", "{9849F15E-C3B4-4D4E-9E59-9E89F4E9135F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9849F15E-C3B4-4D4E-9E59-9E89F4E9135F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9849F15E-C3B4-4D4E-9E59-9E89F4E9135F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9849F15E-C3B4-4D4E-9E59-9E89F4E9135F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9849F15E-C3B4-4D4E-9E59-9E89F4E9135F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {617AC347-3EB6-4E20-B57D-436585F38569}
+	EndGlobalSection
+EndGlobal
